@@ -1,4 +1,3 @@
-#Documentación Práctica 1
 # Práctica 1: Programación de Aplicaciones Telemáticas
 ## Autor: Nacho Yubero - ICAI
 
