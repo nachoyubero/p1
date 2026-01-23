@@ -1,0 +1,8 @@
+Comandos ejecutados de Git - Práctica 1 
+
+git clone: Descarga el repositorio remoto.
+git status: Muestra el estado del area de trabajo.
+git add: Pasa archivos al staging area.
+git commit: Guarda la instantanea en local.
+git push: Sube los cambios a GitHub.
+git checkout: Cambio de ramas. 
