@@ -11,3 +11,8 @@ Aquí se específican los comandos ejecutados:
 - `git add`: Pasé los archivos al área de preparación (staging).
 - `git commit`: Guardé la versión en mi historial local.
 - `git checkout`: Se crea la rama "mejoras-readme" para editar el README sin tocar el main.
+
+### Anexos y Evidencias
+Evidencia de comandos Git [Ver fichero git.txt](git.txt)
+
+Evidencia descarga entorno de desarrollo [Ver fichero de entorno](entorno.txt)
